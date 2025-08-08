@@ -1,0 +1,22 @@
+/* At least four style definitions (it is possible you will have many more than four styles)
+Styles that specify font color
+Styles that specify font family */
+
+
+/* A custom background color or background image */
+body {
+    background-color: #f8f9fa; /* Light gray background */
+}
+
+h1 {
+    color: #343a40; /* Dark gray color for headings */
+}
+
+.list-item {
+    font-family: 'Arial', sans-serif; /* Custom font family for list items */
+    color: #1f2123; /* Bootstrap primary blue color for list items */
+}
+
+a {
+    color: #007bff; /* Bootstrap link blue color */
+}
